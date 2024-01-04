@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Differential Sensitivity Bounds for Dynamic Control
+Upstream-Contact: Sean Patrick O'Neil <seanonei@usc.edu>
+Source: https://qyber.black/spinnet/code-differential-sensitivity-bounds-for-dynamic-control/
+
+Files: *.fig *.csv *.mat
+Copyright: SPDX-FileCopyrightText: Copyright (C) 2020-2023 SM Shermer <lw1660@gmail.com>; SPDX-FileCopyrightText: Copyright (C) 2023 Sean Patrick O'Neil <seanonei@usc.edu>
+License: CC-BY-SA-4.0
+
